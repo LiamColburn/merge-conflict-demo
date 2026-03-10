@@ -11,6 +11,6 @@ public class Car {
     }
     
     public void printInfo() {
-        System.out.printf("Vehicle -> %d %s %s%n", year, brand, model);
+        System.out.printf("Car: %d %s %s%n", year, brand, model);
     }
 }
